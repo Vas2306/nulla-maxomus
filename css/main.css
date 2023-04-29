@@ -1,0 +1,38 @@
+body{
+font-family: 'Rubik', sans-serif;       
+}
+.carousel-inner {
+height: 100hv;
+}
+.carousel-item {
+    height: 100vh;
+}
+.carousel-item>img{
+    height: 100%;
+    object-fit: cover;
+}
+.products .card img{
+width: 100%;
+height: 300px;
+object-fit: cover;
+}
+.products .row>div:not(:last-child){
+    margin-bottom: 30px;
+}
+.brand img{
+width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+.brand .row>div:not(:last-child){
+    margin-bottom: 25px;
+}
+.a{
+    background-color: rgb(164, 35, 35);
+}
+.b{
+    background-color: rgb(69, 174, 24);
+}
+.d{
+    background-color: rgb(38, 81, 176);
+}
