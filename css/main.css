@@ -28,11 +28,22 @@ width: 100%;
     margin-bottom: 25px;
 }
 .a{
+    padding: 10px;
     background-color: rgb(164, 35, 35);
 }
 .b{
+    padding: 10px;
     background-color: rgb(69, 174, 24);
 }
-.d{
+.c{
+    padding: 10px;
     background-color: rgb(38, 81, 176);
+}
+.d{
+    padding: 10px;
+    background-color: rgb(198, 33, 206);
+}
+.e{
+    padding: 10px;
+    background-color: rgb(201, 134, 11);
 }
